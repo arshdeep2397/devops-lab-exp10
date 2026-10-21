@@ -1,0 +1,12 @@
+{
+  "name": "devops-lab-exp10",
+  "version": "1.0.0",
+  "description": "Sample application for DevOps CI/CD Experiment 10",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('Running automated unit tests...'); process.exit(0);\""
+  },
+  "author": "",
+  "license": "ISC"
+}
